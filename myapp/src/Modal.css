@@ -1,0 +1,22 @@
+ .modal {
+  color: black;
+ }
+  .box-content {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .box {
+    min-height: 70vh;
+    width: fit-content;
+    overflow: scroll;
+  }
+  .is-thin {
+    justify-content: center;
+  }
+  .modal-content {
+    margin-bottom: 1rem;
+    height: auto;
+    width: 70rem;
+    background-color: wheat;
+  }
+ 
